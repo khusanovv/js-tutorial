@@ -39,3 +39,15 @@
 //   console.log(`Age ${age} `);
 // };
 // getArv("Boburshoh", "Khusanov ", 20);
+
+// const teleram = (name, surname = "") => {
+//   if (surname) console.log(name, surname);
+//   else console.log(name);
+
+//   surname ? console.log(name, surname) : console.log(name);
+
+//   console.log(name, surname || "");
+// console.log(name, surname );
+// };
+
+// teleram("Ali");
